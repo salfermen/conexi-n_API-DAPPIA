@@ -97,10 +97,9 @@ Crear un archivo .env en la raiz el proyecto y reemplazar el valor de
 "GEMINI_API_KEY" con la clave API generada, en este caso es la que se
 encuentra en este zip
 
-GEMINI_API_KEY=AIzaSyAOTlprZHTkdMepmXOgWSpYHllzGk1aZqo
+GEMINI_API_KEY=TU_CLAVE_DE_API
 
-⚠️ Seguridad: Nunca compartas tu clave API públicamente (Usada en este
-caso para pruebas).
+⚠️ Seguridad: Nunca compartas tu clave API públicamente.
 
 ### 7. Instalar dependencias
 
